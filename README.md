@@ -14,7 +14,7 @@
 1、 lede/package$下运行 或者openwrt/package$下运行
 
 ```bash
- https://github.com/rayqu918/openwrt-packages.git
+ git clone https://github.com/rayqu918/openwrt-packages.git
 ```
  2、 或者添加下面代码到 openwrt 或lede源码根目录feeds.conf.default文件
 ```bash
